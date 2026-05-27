@@ -149,6 +149,11 @@ Focado em desenvolvimento web, banco de dados e aplicações práticas para apre
         src="https://github-readme-streak-stats.herokuapp.com/?user=nuno-af&theme=tokyonight&hide_border=true"
     />
 </p>
+<p>
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-af&theme=tokyonight&hide_border=true"
+</p>
 
 ---
 
